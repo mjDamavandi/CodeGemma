@@ -1,7 +1,7 @@
 {
   "name": "mjdamavandiCodeGemma",
   "displayName": "Code Gemma",
-  "description": "",
+  "description": "an extension to use codegemma on huggingfaces servers for better coding.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -13,9 +13,19 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "mjdamavandiCodeGemma.helloWorld",
-      "title": "Hello World"
-    }]
+      "command": "CodeGemma.complete",
+      "title": "Complete code with CodeGemma"
+    }],
+    "configuration": {
+      "title": "Code Gemma",
+      "properties": {
+        "mjdamavandiCodeGemma.AccessTokens": {
+          "type": ["string", "null"],
+          "default": null,
+          "description": "Get your access token from huggingface with the necessary permissions and place it here."
+        }
+      }
+    }
   },
   "scripts": {
     "lint": "eslint .",
