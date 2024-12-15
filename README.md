@@ -1,12 +1,10 @@
 # mjdamavandiCodeGemma README
 
-This is the README for your extension "mjdamavandiCodeGemma". After writing up a brief description, we recommend including the following sections.
+Code Gemma extension is an interface for using google/codegemma-2b on huggingface servers in vscode. You can see this extension codes in **github**:
 
-## Features
+## Getting started
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
+go to [huggingface access tokens](https://huggingface.co/settings/tokens) and make an Access Token with this acesses:
 
 \!\[feature X\]\(images/feature-x.png\)
 
