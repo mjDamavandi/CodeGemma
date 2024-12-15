@@ -6,7 +6,7 @@ Code Gemma extension is an interface for using google/codegemma-2b on huggingfac
 
 go to [huggingface access tokens](https://huggingface.co/settings/tokens) and make an Access Token with this acesses:
 
-\!\[feature X\]\(images/feature-x.png\)
+[image](./huggingfaceAccessTokenCreate.jpg)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
