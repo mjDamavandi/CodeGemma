@@ -14,16 +14,9 @@ go to [huggingface access tokens](https://huggingface.co/settings/tokens) and ma
 
 VSCode >= 1.95
 
-## Extension Settings
+## Extension Settings 
 
-Include if your extension adds any VSCode settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes to the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+* `mjdamavandiCodeGemma.AccessTokens`: set the Huggingface Access Tokens for connect extension to Huggingface interface.
 
 ## Known Issues
 
