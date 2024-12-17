@@ -6,13 +6,13 @@ Code Gemma extension is an interface for using google/codegemma-2b on huggingfac
 
 go to [huggingface access tokens](https://huggingface.co/settings/tokens) and make an Access Token with this acesses:
 
-[image](./huggingfaceAccessTokenCreate.jpg)
+![huggingface Access tokens](https://1drv.ms/i/s!AooOYhOyWg37gZ8Noy_TiD8QLujMTw?embed=1&width=1366&height=632)
 
 ...
 
 ## Requirements
 
-VSCode >= 1.95
+VSCode > 1.95
 
 ## Extension Settings 
 
