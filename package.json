@@ -1,5 +1,6 @@
 {
   "name": "mjdamavandiCodeGemma",
+  "publisher": "MJDamavandi",
   "displayName": "Code Gemma",
   "description": "an extension to use codegemma on huggingfaces servers for better coding.",
   "version": "0.0.1",
