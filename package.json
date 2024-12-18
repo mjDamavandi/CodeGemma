@@ -33,6 +33,7 @@
     "pretest": "npm run lint",
     "test": "vscode-test"
   },
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@types/vscode": "^1.95.0",
     "@types/mocha": "^10.0.10",
@@ -40,5 +41,10 @@
     "eslint": "^9.16.0",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
-  }
+  },
+  "homepage": "https://github.com/mjDamavandi/CodeGemma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjDamavandi/CodeGemma.git"
+  },
 }
