@@ -1,6 +1,6 @@
 # Vscode Google/Codegemma-2b Extension (Unofficial)
 
-Code Gemma extension is an interface for using google/codegemma-2b on huggingface servers in vscode. You can see this extension codes in **github**:
+Code Gemma extension is an interface for using google/codegemma-2b on huggingface servers in vscode. You can see this extension codes in [github](https://github.com/mjDamavandi/CodeGemma):
 
 ## Getting started
 
