@@ -5,7 +5,7 @@ const vscode = require('vscode');
 // This method is called when your extension is activated
 // Your extension is activated the very first time the command is executed
 
-const AccessToken = vscode.workspace.getConfiguration('mjdamavandiCodeGemma').get('AccessTokens');
+const AccessToken = vscode.workspace.getConfiguration('MJDamavandi.CodeGemma').get('AccessTokens');
 
 async function query(data){
 	const response = await fetch(

@@ -1,5 +1,5 @@
 {
-  "name": "mjdamavandiCodeGemma",
+  "name": "CodeGemma",
   "publisher": "MJDamavandi",
   "displayName": "Code Gemma",
   "description": "an extension to use codegemma on huggingfaces servers for better coding.",
@@ -20,7 +20,7 @@
     "configuration": {
       "title": "Code Gemma",
       "properties": {
-        "mjdamavandiCodeGemma.AccessTokens": {
+        "MJDamavandi.CodeGemma.AccessTokens": {
           "type": ["string", "null"],
           "default": null,
           "description": "Get your access token from huggingface with the necessary permissions and place it here."
@@ -46,5 +46,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mjDamavandi/CodeGemma.git"
-  },
+  }
 }

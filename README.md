@@ -26,4 +26,4 @@ VSCode > 1.95
 
 ## Extension Settings 
 
-* `mjdamavandiCodeGemma.AccessTokens`: set the Huggingface Access Tokens for connect extension to Huggingface interface.
+* `MJDamavandi.CodeGemma.AccessTokens`: set the Huggingface Access Tokens for connect extension to Huggingface interface.
